@@ -1,0 +1,1 @@
+{"name":"Local: K","url":"d:\\study\\C++\\training\\match\\N\\K.cpp","tests":[{"id":1723352924917,"input":"kickickstartkicks\n","output":"3\n"},{"id":1723352967046,"input":"kickkickkickkick\n","output":"4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\study\\C++\\training\\match\\N\\K.cpp","group":"local","local":true}

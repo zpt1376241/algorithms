@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"e:\\study\\C++\\training\\match\\I\\E.cpp","tests":[{"id":1722405232033,"input":"2\n10 4\n0101011111\n3 1\n010\n","output":"3\n1\n"},{"id":1722405531584,"input":"1\n6 3\n101011","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\study\\C++\\training\\match\\I\\E.cpp","group":"local","local":true}

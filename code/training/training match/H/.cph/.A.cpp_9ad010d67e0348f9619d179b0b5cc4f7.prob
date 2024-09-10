@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"e:\\study\\C++\\training\\match\\H\\A.cpp","tests":[{"id":1722230509532,"input":"3 3 3","output":"RRDD"},{"id":1722230524266,"input":"4 3 2","output":"DLDLDLUR"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\study\\C++\\training\\match\\H\\A.cpp","group":"local","local":true}

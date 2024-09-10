@@ -1,0 +1,1 @@
+{"name":"Local: K","url":"d:\\study\\C++\\training\\zudui\\B\\K.cpp","tests":[{"id":1723880300883,"input":"5 20\n4 5 6 7 8\n5 8 7 4 9","output":"26"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\study\\C++\\training\\zudui\\B\\K.cpp","group":"local","local":true}

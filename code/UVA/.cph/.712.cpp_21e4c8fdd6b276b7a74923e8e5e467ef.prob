@@ -1,0 +1,1 @@
+{"name":"Local: 712","url":"e:\\study\\C++\\UVA\\712.cpp","tests":[{"id":1722255558765,"input":"3\nx1 x2 x3\n00000111\n4\n000\n010\n111\n110\n3\nx3 x1 x2\n00010011\n4\n000\n010\n111\n110\n0","output":"S-Tree #1:\n0011\n\nS-Tree #2:\n0011"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\study\\C++\\UVA\\712.cpp","group":"local","local":true}

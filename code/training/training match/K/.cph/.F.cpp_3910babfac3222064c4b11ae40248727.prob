@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"e:\\study\\C++\\training\\match\\K\\F.cpp","tests":[{"id":1722848125871,"input":"3\n1 1 5000\n1 1 1\n1 2 10000\n","output":"4.0000000000\n10141.5852891136\n3.0000000000\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\study\\C++\\training\\match\\K\\F.cpp","group":"local","local":true}

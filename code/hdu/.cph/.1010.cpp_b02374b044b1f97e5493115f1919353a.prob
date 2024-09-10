@@ -1,0 +1,1 @@
+{"name":"Local: 1010","url":"e:\\study\\C++\\hdu\\1010.cpp","tests":[{"id":1722910380250,"input":"4 4 5\nS.X.\n..X.\n..XD\n....\n3 4 5\nS.X.\n..X.\n...D\n0 0 0","output":"NO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\study\\C++\\hdu\\1010.cpp","group":"local","local":true}

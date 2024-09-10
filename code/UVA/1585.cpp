@@ -1,0 +1,49 @@
+#include<cstdio>
+#include<iostream>
+#include<cstring>
+using namespace std;
+char s[1001];
+int main()
+{
+    int n,num,ans,len,flag,q,i;
+    cin>>n;
+    for(i=1;i<=n;i++)
+    {
+        cin>>s;
+        len=strlen(s);
+        ans=0;
+        num=0;
+        for(q=0;q<len;q++)
+        {
+            if(s[q]=='O')
+            {
+                if(q==0)
+                {
+                    num=1;
+                    flag=1;
+                    ans+=num;
+                }
+                else
+                {
+                    if(flag==1)
+                    {
+                        num++;
+                        ans+=num;
+                    }
+                    else
+                    {
+                        flag=1;
+                        num=1;
+                        ans+=num;
+                    }
+                }
+            }
+            else
+            {
+                num=0;
+                flag=0;
+            }
+        }
+        cout<<ans<<endl;
+    }
+}

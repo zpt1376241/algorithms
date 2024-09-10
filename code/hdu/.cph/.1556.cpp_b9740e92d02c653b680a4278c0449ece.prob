@@ -1,0 +1,1 @@
+{"name":"Local: 1556","url":"e:\\study\\C++\\hdu\\1556.cpp","tests":[{"id":1723032782102,"input":"3\n1 1\n2 2\n3 3\n3\n1 1\n1 2\n1 3\n0","output":"1 1 1\n3 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\study\\C++\\hdu\\1556.cpp","group":"local","local":true}

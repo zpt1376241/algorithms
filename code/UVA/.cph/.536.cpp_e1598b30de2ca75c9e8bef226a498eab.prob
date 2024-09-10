@@ -1,0 +1,1 @@
+{"name":"Local: 536","url":"d:\\study\\C++\\UVA\\536.cpp","tests":[{"id":1721785603992,"input":"DBACEGF ABCDEFG","output":"ACBFGED"},{"id":1721785612441,"input":"BCAD CBAD","output":"CDAB"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\study\\C++\\UVA\\536.cpp","group":"local","local":true}

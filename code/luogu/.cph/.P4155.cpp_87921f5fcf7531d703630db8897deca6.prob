@@ -1,0 +1,1 @@
+{"name":"Local: P4155","url":"e:\\study\\C++\\luogu\\P4155.cpp","tests":[{"id":1722925071051,"input":"4 8\n2 5\n4 7\n6 1\n7 3","output":"3 3 4 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\study\\C++\\luogu\\P4155.cpp","group":"local","local":true}
